@@ -1,1 +1,1 @@
-email feature
+email feature connected to another service
